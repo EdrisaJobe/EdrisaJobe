@@ -1,27 +1,41 @@
 
-## Hello I'm Edrisa Jobe! 👋
+## Hello, I'm Edrisa Jobe! 👋
 
 I love making websites and other fun projects, check my portfolio out you won't be disappointed!
 
-### Get in touch
+### Contact
 [![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://www.edrisajobe.dev)
-[![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-40AEF0?style=for-the-badge)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/) 
+[![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/) 
 [![yahoo - ed.jobe@yahoo.com](https://img.shields.io/badge/yahoo-ed.jobe%40yahoo.com-A100FF?style=for-the-badge)](https://www.yahoo.com)
 
-### What I work with
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## My Tech Stack
 
-#### Currently Learning
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Drupal](https://img.shields.io/badge/Drupal-0099E5?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Other Skills
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 ### Education :books:
-Albany state university intending on getting my Bachelors in Computer Science.
+Albany State University, currently a Bachelor of Computer Science with an Informatics minor.
 
 ![image](https://www.albany.edu/communicationsmarketing/email/2015-convocation/banner-top.png)
 
