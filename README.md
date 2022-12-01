@@ -1,5 +1,5 @@
 ## Hello, I'm Edrisa Jobe! 👋
-I love making websites and other fun projects, feel free to contact me acnd check out my portfolio!
+I love making websites and other fun projects, feel free to contact me and check out my portfolio!
 
 [![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://www.edrisajobe.dev)
 [![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/) 
