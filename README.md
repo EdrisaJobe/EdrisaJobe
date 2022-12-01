@@ -32,7 +32,7 @@ I love making websites and other fun projects, feel free to contact me and check
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Trello](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Education :books:
 Albany State University, currently a Bachelor of Computer Science with an Informatics minor.
