@@ -6,7 +6,7 @@ I love making websites and other fun projects, feel free to contact me and check
 [![yahoo - ed.jobe@yahoo.com](https://img.shields.io/badge/yahoo-ed.jobe%40yahoo.com-A100FF?style=for-the-badge)](https://www.yahoo.com)
 
 
-## My Tech Stack
+## My Tech Stack 👨‍💻
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
