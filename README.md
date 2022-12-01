@@ -1,11 +1,10 @@
 ## Hello, I'm Edrisa Jobe! 👋
+I love making websites and other fun projects, feel free to contact me acnd check out my portfolio!
 
-I love making websites and other fun projects, check my portfolio out you won't be disappointed!
-
-### Contact
 [![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://www.edrisajobe.dev)
 [![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/) 
 [![yahoo - ed.jobe@yahoo.com](https://img.shields.io/badge/yahoo-ed.jobe%40yahoo.com-A100FF?style=for-the-badge)](https://www.yahoo.com)
+
 
 ## My Tech Stack
 
