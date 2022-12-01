@@ -1,4 +1,3 @@
-
 ## Hello, I'm Edrisa Jobe! 👋
 
 I love making websites and other fun projects, check my portfolio out you won't be disappointed!
@@ -34,7 +33,7 @@ I love making websites and other fun projects, check my portfolio out you won't 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
-### Education :books:
+## Education :books:
 Albany State University, currently a Bachelor of Computer Science with an Informatics minor.
 
 ![image](https://www.albany.edu/communicationsmarketing/email/2015-convocation/banner-top.png)
