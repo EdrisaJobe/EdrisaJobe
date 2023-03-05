@@ -51,6 +51,8 @@ Albany State University, currently a Bachelor of Computer Science with an Inform
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=theforecastapp)](https://github.com/EdrisaJobe/theforecastapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=oneagenda)](https://github.com/EdrisaJobe/oneagenda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=easycharts)](https://github.com/EdrisaJobe/easycharts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=covidcases)](https://github.com/EdrisaJobe/covidcases)
 
 <!---
 EdrisaJobe/EdrisaJobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
