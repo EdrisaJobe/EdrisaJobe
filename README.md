@@ -46,9 +46,6 @@ Albany State University, currently a Bachelor of Computer Science with an Inform
 ![image](https://www.albany.edu/communicationsmarketing/email/2015-convocation/banner-top.png)
 
 ## My projects :open_file_folder:
-- [TheForecastInfo](http://www.theforecast.info) - A project based on grabbing the OpenweatherApi and retrieving weather conditions based on any city or country.
-- [LocalRegion](http//www.localregion.info) - This project taught me how to maniulate apis and grab specific information based on a region. It also grabs user ip address to display current location.
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=theforecastapp)](https://github.com/EdrisaJobe/theforecastapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=oneagenda)](https://github.com/EdrisaJobe/oneagenda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=easycharts)](https://github.com/EdrisaJobe/easycharts)
