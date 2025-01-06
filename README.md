@@ -43,7 +43,7 @@ I love making websites and other fun projects, feel free to contact me and check
 ## Education :books:
 Albany State University, currently a Bachelor of Computer Science with an Informatics minor.
 
-![image](https://www.albany.edu/communicationsmarketing/email/2015-convocation/banner-top.png)
+![image](https://media.licdn.com/dms/image/v2/C4E1BAQFrVu1T3NZMlg/company-background_10000/company-background_10000/0/1584400374545/university_at_albany_cover?e=2147483647&v=beta&t=XW1MDzZROGFjNnuWcNNy40U_oeuhVq6YnMy4uCNhyWI)
 
 ## My projects :open_file_folder:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=theforecastapp)](https://github.com/EdrisaJobe/theforecastapp)
