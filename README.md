@@ -1,7 +1,7 @@
 ## Hello, I'm Edrisa Jobe! 👋
 I love making websites and other fun projects, feel free to contact me and check out my portfolio!
 
-[![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://www.edrisajobe.dev)
+[![</> -Portfolio](https://img.shields.io/badge/<%2F>-Portfolio-0099E5?style=for-the-badge)](https://www.edrisajobe.com)
 [![In - LinkedIn](https://img.shields.io/badge/In-LinkedIn-3670A0?style=for-the-badge)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/) 
 [![Email - ed.jobe@yahoo.com](https://img.shields.io/badge/Email-ed.jobe%40yahoo.com-A100FF?style=for-the-badge)](https://www.yahoo.com)
 
