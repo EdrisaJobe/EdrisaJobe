@@ -11,6 +11,7 @@ I love making websites and other fun projects, feel free to contact me and check
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,10 +47,9 @@ Albany State University, currently a Bachelor of Computer Science with an Inform
 ![image](https://media.licdn.com/dms/image/v2/C4E1BAQFrVu1T3NZMlg/company-background_10000/company-background_10000/0/1584400374545/university_at_albany_cover?e=2147483647&v=beta&t=XW1MDzZROGFjNnuWcNNy40U_oeuhVq6YnMy4uCNhyWI)
 
 ## My projects :open_file_folder:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=theforecastapp)](https://github.com/EdrisaJobe/theforecastapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=oneagenda)](https://github.com/EdrisaJobe/oneagenda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=easycharts)](https://github.com/EdrisaJobe/easycharts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=covidcases)](https://github.com/EdrisaJobe/covidcases)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=covidcases)](https://github.com/EdrisaJobe/ezifie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=covidcases)](https://github.com/EdrisaJobe/klowdi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edrisajobe&repo=covidcases)](https://github.com/EdrisaJobe/oneagenda)
 
 ![](https://raw.githubusercontent.com/edrisajobe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/edrisajobe/github-stats/master/generated/overview.svg#gh-light-mode-only)
