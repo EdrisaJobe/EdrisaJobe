@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, functiona
 
 ## 🎓 Education
 **Albany State University**  
-📊 Minor in Mathimatics  
+📊 Minor in Mathematics  
 📚 Bachelor of Computer Science  
 
 ![Albany State University Campus](https://media.licdn.com/dms/image/v2/C4E1BAQFrVu1T3NZMlg/company-background_10000/company-background_10000/0/1584400374545/university_at_albany_cover?e=2147483647&v=beta&t=XW1MDzZROGFjNnuWcNNy40U_oeuhVq6YnMy4uCNhyWI)
