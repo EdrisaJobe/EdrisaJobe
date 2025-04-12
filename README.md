@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, functiona
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-0099E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.edrisajobe.com)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-0099E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.edrisajobe.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edrisa-jobe-1305211b8/)
 [![Email](https://img.shields.io/badge/📧_ed.jobe@yahoo.com-A100FF?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ed.jobe@yahoo.com)
 
