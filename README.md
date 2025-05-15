@@ -1,6 +1,8 @@
 # Hello, I'm Edrisa Jobe! 👋 
 
-🌐 **Full-Stack Developer** | 💡 **Tech Enthusiast** | 🚀 **Always Building Something New**
+🌐 **Full Stack Developer** | 💡 **Tech Enthusiast** | 🧰 **Always Building Something New**
+
+🤖 **Currently Integrating Web Development with building Machine Learning models**
 
 Welcome to my GitHub profile! I'm passionate about creating beautiful, functional websites and innovative projects. Feel free to explore my work and connect with me!
 
